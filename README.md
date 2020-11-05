@@ -1,5 +1,11 @@
-# CountryCorrespondenceTable
-Apple Store Metadata Country Correspondence Table
+# 苹果商店代码
+
+* [国家代码](#1)
+* [语言代码](#2)
+
+
+
+## <h2 id="1">国家代码</h2>
 |国家|短代码|长代码|
 |:--|:--|:--|
 |阿拉伯联合酋长国|AE|ARE|
@@ -177,3 +183,46 @@ Apple Store Metadata Country Correspondence Table
 |南非|ZA|ZAF|
 |赞比亚|ZM|ZMB|
 |津巴布韦|ZW|ZWE|
+
+## <h2 id="2">语言代码</h2>
+|语言名称|代码|
+|:--|:--|
+|阿拉伯文|ar-SA|
+|北印度文|hi|
+|波兰文|pl|
+|丹麦文|da|
+|德文|de-DE|
+|俄文|ru|
+|法文|fr-FR|
+|法文（加拿大）|fr-CA|
+|繁体中文|zh-Hant|
+|芬兰文|fi|
+|韩文|ko|
+|荷兰文|nl-NL|
+|加泰罗尼亚文|ca|
+|简体中文|zh-Hans|
+|捷克文|cs|
+|克罗地亚文|hr|
+|罗马尼亚|ro|
+|马来文|ms|
+|挪威文|no|
+|葡萄牙文（巴西）|pt-BR|
+|葡萄牙文（葡萄牙）|pt-PT|
+|日文|ja|
+|瑞典文|sv|
+|斯洛伐克文|sk|
+|泰文|th|
+|土耳其文|tr|
+|乌克兰文|uk|
+|西班牙文（墨西哥）|es-MX|
+|西班牙文（西班牙）|es-ES|
+|希伯来文|he|
+|希腊文|el|
+|匈牙利文|hu|
+|意大利文|it|
+|印度尼西亚文|id|
+|英文（澳大利亚）|en-AU|
+|英文（加拿大）|en-CA|
+|英文（美国）|en-US|
+|英文（英国）|en-GB|
+|越南文|vi|
