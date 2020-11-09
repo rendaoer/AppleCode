@@ -2,7 +2,7 @@
 
 * [国家代码](#1)
 * [语言代码](#2)
-
+* [软件类别代码](#3)
 
 
 ## <h2 id="1">国家代码</h2>
@@ -226,3 +226,34 @@
 |英文（美国）|en-US|
 |英文（英国）|en-GB|
 |越南文|vi|
+
+
+## <h2 id="3">软件类别</h2>
+|类型|代码|
+|:--|:--|
+|游戏|GAMES|
+|饮食|FOOD_AND_DRINK|
+|商业|BUSINESS|
+|教育|EDUCATION|
+|社交网络|SOCIAL_NETWORKING|
+|图书|BOOKS|
+|体育|SPORTS|
+|金融|FINANCE|
+|参考|REFERENCE|
+|图形与设计|GRAPHICS_AND_DESIGN|
+|开发者工具|DEVELOPER_TOOLS|
+|健康和健身|HEALTH_AND_FITNESS|
+|音乐|MUSIC|
+|天气|WEATHER|
+|旅行|TRAVEL|
+|娱乐|ENTERTAINMENT|
+|贴纸|STICKERS|
+|生活方式|LIFESTYLE|
+|医疗|MEDICAL|
+|杂志和报纸|MAGAZINES_AND_NEWSPAPERS|
+|实用程序|UTILITIES|
+|购物|SHOPPING|
+|生产率|PRODUCTIVITY|
+|新闻|NEWS|
+|照片和视频|PHOTO_AND_VIDEO|
+|导航|NAVIGATION|
